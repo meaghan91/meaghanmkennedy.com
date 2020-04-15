@@ -1,0 +1,16 @@
+Website Notes
+
+Feel: Simple, not too many fonts
+
+Colors: Black (dark grey?), gold, white (off-white?)
+
+Landing page > Resume page
+
+Contact buttons
+
+Things to add from codecamp
+HTML: add images, link external and internal places with anchor
+CSS: rounded corners on border, padding, margins
+AVD: text align, horizontal line, opacity, text-transform, fixed navbar, linear gradient
+
+Add to resume: Basic HTML/HTML5, Basic CSS
