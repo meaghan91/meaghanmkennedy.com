@@ -11,6 +11,6 @@ Contact buttons
 Things to add from codecamp
 HTML: add images, link external and internal places with anchor
 CSS: rounded corners on border, padding, margins
-AVD: text align, horizontal line, opacity, text-transform, fixed navbar, linear gradient
+AVD: text align, horizontal line, opacity, text-transform, fixed navbar, linear gradient, button animation
 
 Add to resume: Basic HTML/HTML5, Basic CSS
